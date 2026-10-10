@@ -24,7 +24,6 @@ This Excel portfolio project analyzes Global Superstore transaction data to unde
 | Distinct Customers | 1,590 |
 | Distinct Products | 10,292 |
 
-*Currency is shown as represented in the source dataset; confirm the dataset's currency convention before comparing with another source.*
 
 ## Main Findings
 
@@ -77,7 +76,6 @@ This Excel portfolio project analyzes Global Superstore transaction data to unde
 
 - The dataset is observational; the analysis describes patterns and associations rather than proving causation.
 - Blank postal codes are common in the global data and should be assessed by country/market before deciding whether to impute or exclude them.
-- Currency convention should be verified from the dataset source before external financial comparisons.
 
 ## Portfolio Skills Demonstrated
 
